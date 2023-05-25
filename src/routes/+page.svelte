@@ -20,6 +20,7 @@
 
 		to your new<br />SvelteKit app
 	</h1>
+	<img src="https://res.cloudinary.com/dc9wdxj8g/image/upload/c_scale,w_200,h_200,q_auto,f_webp/banners/nx92acuqcu2wq6hyrrwh" alt="test" />
 
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
